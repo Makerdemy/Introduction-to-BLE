@@ -1,0 +1,1 @@
+1) Cayenne Website - https://accounts.mydevices.com/auth/realms/cayenne/protocol/openid-connect/auth?response_type=code&scope=email+profile&client_id=cayenne-web-app&state=1nL23ztTK0KduhOj9ic19ksMN6Ffjo2KJFe2BD2a&redirect_uri=https%3A%2F%2Fcayenne.mydevices.com%2Fauth%2Fcallback

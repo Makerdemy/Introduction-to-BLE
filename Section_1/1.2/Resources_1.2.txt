@@ -1,0 +1,2 @@
+1) BLE Learn Technology in 5 minutes (LTI5M) video link: https://youtu.be/NSkIHdV6NoY
+2) Security features of ESP32: https://medium.com/the-esp-journal/understanding-esp32s-security-features-14483e465724

@@ -1,0 +1,2 @@
+1) Arduino ⁯IDE Mac and Windows: https://www.arduino.cc/en/software
+2) ESP32 Arduino Core Releases: https://github.com/espressif/arduino-esp32/releases

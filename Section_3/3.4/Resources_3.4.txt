@@ -1,0 +1,2 @@
+1) Cayenne_MQTT: https://github.com/myDevicesIoT/cayenne-docs/blob/master/docs/MQTTAPIS.md
+2) Cayenne Data Types: https://community.mydevices.com/t/data-types-for-cayenne-mqtt-api/3714

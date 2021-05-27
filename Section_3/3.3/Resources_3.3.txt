@@ -1,0 +1,1 @@
+1) PIR Sensor: https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/how-pirs-work
