@@ -1,0 +1,11 @@
+BLE GATT Server explanation: https://github.com/espressif/esp-idf/blob/c13afea635adec735435961270d0894ff46eef85/examples/bluetooth/bluedroid/ble/gatt_server/tutorial/Gatt_Server_Example_Walkthrough.md
+
+
+
+BLE GATT Client explanation:  https://github.com/espressif/esp-idf/blob/c13afea635adec735435961270d0894ff46eef85/examples/bluetooth/bluedroid/ble/gatt_client/tutorial/Gatt_Client_Example_Walkthrough.md
+
+
+
+PuTTY download: https://www.putty.org/
+
+ZOC download: https://www.emtec.com/download.html

@@ -1,0 +1,1 @@
+https://www.mysensors.org/build/mqtt_gateway#:~:text=The%20MQTT%20gateway%20is%20basically,act%20as%20a%20MQTT%20client.&text=The%20W5100%20MQTT%20gateway%20sends,data%20to%20your%20MQTT%20broker.
